@@ -1,7 +1,8 @@
 # Quiet Facebook
 
-![](https://raw.githubusercontent.com/maxfriedrich/quiet-facebook/master/screenshot.png)
+![](https://raw.githubusercontent.com/roginfarrer/quiet-facebook/master/screenshot.png)
 
+I took [Max Friedrich’s](https://github.com/maxfriedrich/quiet-facebook) stylesheet, and added lines to hide the Trending News and Suggested Pages sections of the right sidebar.
 
 ## Installation
 
